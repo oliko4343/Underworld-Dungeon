@@ -10,4 +10,4 @@ The initial idea for this short game was to:
 - Add purposeful soundtracks and sound effects
 - Functioning and introductory start screen
 
-Gameplay Video:
+Gameplay Video: https://www.dropbox.com/s/ra31skrj4y8v92k/Video%20of%20game.mp4?dl=0
