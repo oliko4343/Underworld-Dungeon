@@ -1,6 +1,7 @@
+This project's purpose was to get an initial experience with the functionalities of unity and learn the contents of game design which was taught during my 3rd Year Computer Science Degree.
+
 ![Title](/image.png)
 
-This project's purpose was to get an initial experience with the functionalities of unity and learn the contents of game design which was taught during my 3rd Year Computer Science Degree.
 
 The initial idea for this short game was to:
 -
